@@ -12,7 +12,7 @@ jobs:
       - name: Sync
         uses: joshcai/leetcode-sync@v1.5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          leetcode_session: ${{ secrets.LEETCODE_SESSION }}
-          leetcode_csrf_token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          destination_branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          destination-branch: main
