@@ -1,0 +1,18 @@
+name: LeetCode Sync
+
+on:
+  workflow_dispatch:      # 수동으로 실행하고 싶을 때
+  schedule:
+    - cron:  "0 15 * * *" # 매일 한국 시간으로 밤 12시(UTC 15:00)에 실행
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync
+        uses: joshcai/leetcode-sync@v1.7.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode_session: ${{ secrets.LEETCODE_SESSION }}
+          leetcode_csrf_token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          destination_branch: main
