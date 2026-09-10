@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def __init__(self):
         self.ans = 0
@@ -13,14 +14,16 @@ class Solution:
         return self.ans
 
     def exploreSubtree(self, node) -> list:
-        nums = [node.val]
+        nums = node.val
+        count = 1
 
         if node.left:
-            nums.extend(self.exploreSubtree(node.left))
+            nums_subtree, count_subtree = self.exploreSubtree(node.left)
+            nums, count = nums + nums_subtree, count + count_subtree 
         if node.right:
-            nums.extend(self.exploreSubtree(node.right))
-
-        if node.val == int(sum(nums) / len(nums)):
+            nums_subtree, count_subtree = self.exploreSubtree(node.right)
+            nums, count = nums + nums_subtree, count + count_subtree
+        if node.val == int(nums / count):
             self.ans += 1
 
-        return nums
+        return nums, count
