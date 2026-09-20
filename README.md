@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [3498-reverse-degree-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
