@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0835-image-overlap](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0835-image-overlap) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -21,6 +23,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
