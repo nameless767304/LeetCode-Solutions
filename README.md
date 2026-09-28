@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
