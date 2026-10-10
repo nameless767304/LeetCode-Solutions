@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0835-image-overlap](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nameless767304/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -85,4 +86,20 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nameless767304/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nameless767304/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nameless767304/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nameless767304/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
