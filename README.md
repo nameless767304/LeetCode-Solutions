@@ -31,6 +31,7 @@
 | [0006-zigzag-conversion](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nameless767304/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
