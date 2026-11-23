@@ -131,4 +131,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
