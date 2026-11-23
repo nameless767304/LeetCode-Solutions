@@ -56,6 +56,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nameless767304/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -135,5 +136,6 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nameless767304/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
